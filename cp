@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-# samuel.leason.snyder@gmail.com
+# samuel.l.snyder@gmail.com
 # addon to todo.sh
 # copies item from one file in todo directory to another 
 
